@@ -3,9 +3,10 @@
 
 ###### Screenshots
 
-![Alt text](https://lh3.googleusercontent.com/vr_WeLmhQXeieos_mAmh6N0taIe1w18WL12iI0p2kPlRYYdsOM_AI7DWbnZNeOOAwX_c=h900-rw)
-
-![Alt text](https://lh3.googleusercontent.com/eMN1QuzZlTrvsieUs6fisasgBsVv3vHbdgwwYZPJV-n2B7yCILrm6bwxWAfSYzGGmg=h900-rw)
+<p>
+  <img src="https://lh3.googleusercontent.com/vr_WeLmhQXeieos_mAmh6N0taIe1w18WL12iI0p2kPlRYYdsOM_AI7DWbnZNeOOAwX_c=h900-rw" height="700"/>
+  <img src="https://lh3.googleusercontent.com/eMN1QuzZlTrvsieUs6fisasgBsVv3vHbdgwwYZPJV-n2B7yCILrm6bwxWAfSYzGGmg=h900-rw" height="700"/>
+</p>
 
 ###### Google Play Link
 

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\libs\tween-engine-api.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\tween-engine-api_93dd974e56327bcf54b33d057f829b15c63e0eb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\gdx-box2d-1.9.2_4a89adb039fde17c3399d81f3dba2c0b9c07d2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\gdx-1.9.2_faa7e63258c672404f8b107e7b4d349cfee786f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\internal_impl-23.0.0_2c57d4c0531daac83dfba48ae381d7d197ba8bad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\support-annotations-23.0.0_a215f5fdcb5ed403df36cd89a678df7542b0230d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.2\3609253d14edb1b3ca5aacff4e06989edde75be4\gdx-freetype-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3609253d14edb1b3ca5aacff4e06989edde75be4">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\gdx-freetype-1.9.2_f96d80cf83c022f2740316614b741eba8f152f4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.4.0_b028a8e5429f516fde3836a4116ae76b289b415d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.0_9d4ac849ad23e5d24cf7cf6b4612f704b1cf7ca3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\gdx-backend-android-1.9.2_a672e3e707c0d4cf39c8ec4b7f115ce53fc10e5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a57d232d739a964b42411742cd2d6371ab1d475f">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\core-1.0_7eeb0b6bbdc8dab4789167fcd233c085bc30ab18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Sina\SkyDrive\AndroidStudioProjects\CrowApp\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_66a579ab55e89b1513f5104bc640baf80f2a7af2.jar" />
+    </item>
+
+</items>
